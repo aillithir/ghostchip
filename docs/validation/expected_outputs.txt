@@ -1,0 +1,2 @@
+- Ensure parser finds at least 1 artifact
+- Ensure report contains case_id
